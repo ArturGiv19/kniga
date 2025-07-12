@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1093910506
+CRC: 293150248
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 607eb80d80920aae804b1c768783eabc
+    Hash: f2a0dfd5c45f39618a0d689487971cef
   TypeTreeHash:
     serializedVersion: 2
     Hash: 39e646bd777ad286afc9b3c6d9fb1f50
@@ -51,9 +51,9 @@ SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/AssetBundles/aduvan/butterFly/PeacockButterfly_Color.jpg
 - Assets/AssetBundles/aduvan/aduvan/Dandelion_Metallic.png
-- Assets/AssetBundles/aduvan/adduvan_sound.mp3
 - Assets/AssetBundles/aduvan/aduvan/Dandelion_Opacity.png
 - Assets/AssetBundles/aduvan/aduvan_prefab.prefab
+- Assets/AssetBundles/aduvan/sound_aduvan.mp3
 - Assets/AssetBundles/aduvan/aduvan/Dandelion_BaseColor.jpg
 - Assets/AssetBundles/aduvan/aduvan/aduvan.fbx
 - Assets/AssetBundles/aduvan/butterFly/customFly.anim

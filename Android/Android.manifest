@@ -1,18 +1,18 @@
 ManifestFileVersion: 0
-CRC: 2905266751
+CRC: 1430970929
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: ardebugmenu
-      Dependencies: {}
+      Name: aduvan_bundle
+      Dependencies:
+        Dependency_0: aqua_bundle
     Info_1:
-      Name: andrii_bundle
+      Name: ardebugmenu
       Dependencies: {}
     Info_2:
       Name: aqua_bundle
       Dependencies:
         Dependency_0: aduvan_bundle
     Info_3:
-      Name: aduvan_bundle
-      Dependencies:
-        Dependency_0: aqua_bundle
+      Name: andrii_bundle
+      Dependencies: {}
