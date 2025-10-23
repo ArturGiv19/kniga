@@ -1,1 +1,1 @@
-{"array":[{"name":"aduvan","version":"1.1","description":"Адуванчик"},{"name":"aqua","version":"1.0","description":"Акваріум"}]}
+{"array":[{"name":"aduvan","version":"1.0","description":"Адуванчик"},{"name":"aqua","version":"1.0","description":"Акваріум"}]}
